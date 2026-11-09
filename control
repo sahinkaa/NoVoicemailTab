@@ -1,0 +1,9 @@
+Package: com.sahinkaa.novoicemailtab
+Name: No Voicemail Tab
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Remove the Voicemail tab from the Phone app.
+Maintainer: sahinkaa
+Author: sahinkaa
+Section: Tweaks
+Depends: firmware (>= 16.0), mobilesubstrate
